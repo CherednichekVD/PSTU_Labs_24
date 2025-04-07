@@ -9,7 +9,7 @@
 | №7 Green Lab | + | + |
 | №9 Green Lab | + | + |
 | №10 Green Lab | + | + |
-| №11 Green Lab | + | + |
+| №11 Green Lab | + | - |
 | Sortirovki prost | + | + |
 | Xanoi | + | + |
 | 8 Ferzei | + | + |
