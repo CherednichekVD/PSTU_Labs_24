@@ -14,7 +14,9 @@
 | Xanoi | + | + |
 | 8 Ferzei | + | + |
 | Sortirovki hard | + | + |
-| Sortirovki Shell and Hoar | + | + |
+| Sortirovki Shell | + | + |
+| Sortirovki Hoar | + | + |
+| Sortirovki Lamuto | + | + |
 | IDEF0 | + | + |
 
 
